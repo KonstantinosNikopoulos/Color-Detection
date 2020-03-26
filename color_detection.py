@@ -10,12 +10,11 @@
 
 from PIL import Image
 import os, os.path
-#! pip install webcolors
 import webcolors
 
 ### Get colors
 
-path = "/content/images_color/"
+path = "images_color/"
 
 # Source of this function:
 #https://stackoverflow.com/questions/9694165/convert-rgb-color-to-english-color-name-like-green-with-python
