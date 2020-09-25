@@ -1,10 +1,7 @@
-
 # Color detection
 
 # Authors: 
 # Konstantinos Nikopoulos
-# Ioannis Maliouris
-
 
 ### Libraries
 
