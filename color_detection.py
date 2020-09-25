@@ -1,6 +1,6 @@
 # Color detection
 
-# Authors: 
+# Author: 
 # Konstantinos Nikopoulos
 
 ### Libraries
