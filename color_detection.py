@@ -1,8 +1,5 @@
 # Color detection
 
-# Author: 
-# Konstantinos Nikopoulos
-
 ### Libraries
 
 from PIL import Image
