@@ -35,4 +35,5 @@ def get_colors(path)
 # Run example
 path = "images_color/"
 dict_colors = get_colors(path)
+print("Result: ")
 print(dict_colors)
